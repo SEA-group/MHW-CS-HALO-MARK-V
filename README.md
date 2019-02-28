@@ -20,21 +20,11 @@ Uninstallation：
 Corresponding delete the file under the installation folder
 
 Credits:
-
-Created by：Warlord Sieck
-
 CrazyT: for the importer
-
 Ezekial: for helping me with this mod
-
 The MHW Modding Discord: for helping me with crap in general
-
 My game development mentor, Ian Snyder: For helping me
-
 Bungie: for Halo and the Grunt model
-
 343 Industries: for Combat Evolved Anniversary, and for the Master Chief model used for this mod
-
 Microsoft: Also for Halo
-
 FABAJI：files optimize
